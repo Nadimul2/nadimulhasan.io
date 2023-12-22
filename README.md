@@ -1,4 +1,4 @@
-# Data Scientist
+# Nadimul Hasan
 
 #### Technical Skills: Python, SQL, R, Power BI, NoSQL
 
