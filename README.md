@@ -6,7 +6,8 @@
 - HONOURS BACHELOR OF DATA SCIENCE AND ANALYTICS | Seneca College ( August 2025)
 
 ## Projects
-** [Employee Retention Analysis](https://github.com/Nadimul2/analysis_project/tree/main)
+#### [Employee Retention Analysis](https://github.com/Nadimul2/analysis_project/tree/main)
+
 Skills used: Python, Sklearn, PowerBI
 •	The dataset consists of over 15000 employee statistics. 
 •	Developed ML model to analyze employee retention.
